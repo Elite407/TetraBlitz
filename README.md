@@ -46,5 +46,12 @@ A continuous loop handles drawing, input processing, and gravity mechanics.
 Points are awarded based on the number of cleared rows.
 
 # Installation and Execution
-Clone or download this repository to your local machine :
 https://github.com/Elite407/TetraBlitz/tree/main
+Clone or download this repository to your local machine :
+Compile the source code (tetris-final.cpp) using a C++ compiler that supports C++17 or later (e.g., GCC or MSVC).
+g++ -std=c++17 tetris-final.cpp -o tetris
+
+Run the compiled executable:
+./tetris
+
+
