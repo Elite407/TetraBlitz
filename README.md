@@ -99,21 +99,9 @@ git clone https://github.com/Elite407/TetraBlitz.git
 cd TetraBlitz
 ```
 
-### Compilation
-
-Compile the source code (`tetris-final.cpp`) using a **C++17 or later** compiler:
-
-```sh
-g++ -std=c++17 tetris-final.cpp -o tetris
-```
-
-### Run the Game
-
-```sh
-./tetris
-```
 
 ---
+Now you are good to go, just compileand run ! :)
 
 Enjoy playing TetraBlitz! Test your reflexes and aim for the highest score!
 
