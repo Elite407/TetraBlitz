@@ -46,19 +46,5 @@ A continuous loop handles drawing, input processing, and gravity mechanics.
 Points are awarded based on the number of cleared rows.
 
 # Installation and Execution
-Clone or download this repository to your local machine.
-
-bash
-./tetris
-Known Issues & Future Improvements
-Current Limitations:
-The game runs only in Windows console due to platform-specific code (SetConsoleCursorPosition).
-
-No support for advanced Tetris features like hold pieces or ghost pieces.
-
-Potential Enhancements:
-Add support for other platforms (Linux/macOS).
-
-Implement advanced mechanics such as hold functionality and ghost pieces.
-
-Add sound effects and animations for better user experience.
+Clone or download this repository to your local machine :
+https://github.com/Elite407/TetraBlitz/tree/main
