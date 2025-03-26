@@ -238,7 +238,7 @@ public:
                     cout << "Goodbye!\n";
                     return;
                 }
-                Sleep(100);
+                Sleep(101);
             }
         }
     }
