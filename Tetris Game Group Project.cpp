@@ -227,7 +227,7 @@ public:
                     continue;
                 }
                 movePiece(0, 1);
-                Sleep(300);
+                Sleep(150);
             }
             draw();
             setCursorPosition(0, rows + 3);
